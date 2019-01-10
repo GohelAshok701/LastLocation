@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LastLocation</string>
+    <string name="get_last_location">GET LAST LOCATION</string>
+</resources>
